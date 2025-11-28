@@ -6,6 +6,7 @@
 `0x371cAAef98441C0A85b125BBfEc337AA9dAB279b`  
 View on Explorer:  
 https://coston2-explorer.flare.network/address/0x371cAAef98441C0A85b125BBfEc337AA9dAB279b
+<img width="1319" height="576" alt="image" src="https://github.com/user-attachments/assets/71e74e6f-ad8e-4a67-8777-3e545fd92670" />
 
 ---
 
